@@ -48,7 +48,7 @@ $pageFile = $page . '.php';
                     <ul class="navbar-nav mx-auto">
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="aboutDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                About Us
+                                About Sakar Panta
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="aboutDropdown">
                                 <li><a class="dropdown-item" href="index.php?page=our-company">Our Company</a></li>
