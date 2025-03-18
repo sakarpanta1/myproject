@@ -1,0 +1,12 @@
+[17-Mar-2025 11:25:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wiecedun_leapbroad'@'localhost' to database 'wiecedun_leapbroad' in /home/wiecedun/leapbroad.com/app.leapbroad.com/db.php on line 7
+[17-Mar-2025 11:26:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'wiecedun_leapbroad1'@'localhost' to database 'wiecedun_leapbroad1' in /home/wiecedun/leapbroad.com/app.leapbroad.com/db.php on line 7
+[17-Mar-2025 15:13:01 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 30
+[17-Mar-2025 15:13:01 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 31
+[17-Mar-2025 15:13:01 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 32
+[17-Mar-2025 15:29:17 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 30
+[17-Mar-2025 15:29:17 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 31
+[17-Mar-2025 15:29:17 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 32
+[17-Mar-2025 15:33:31 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 22
+[17-Mar-2025 15:33:31 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 23
+[17-Mar-2025 15:33:31 UTC] PHP Warning:  mysqli_stmt_affected_rows() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 25
+[17-Mar-2025 15:33:31 UTC] PHP Warning:  mysqli_stmt_close() expects parameter 1 to be mysqli_stmt, bool given in /home/wiecedun/leapbroad.com/app.leapbroad.com/forgot_password.php on line 37

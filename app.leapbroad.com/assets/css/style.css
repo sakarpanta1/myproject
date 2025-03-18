@@ -1,0 +1,46 @@
+/* Custom Sidebar Styles */
+.sidebar {
+    background-color: #343a40;
+    color: white;
+    padding-top: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 250px;
+    box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.sidebar h4 {
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Main Content Area */
+.main-content {
+    margin-left: 250px;
+    padding-top: 70px;
+}
+
+/* Navbar */
+.navbar {
+    z-index: 100;
+}
+
+/* Dropdown */
+.dropdown-menu {
+    min-width: 200px;
+}
